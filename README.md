@@ -32,7 +32,6 @@ El problema de las Torres de Hanói puede resolverse de manera eficiente utiliza
 
 ### Pseudocódigo
 
-```plaintext
 función hanoi(n, source, target, auxiliary)
     si n es 1
         imprimir "Mover disco 1 de " + source + " a " + target
